@@ -1,5 +1,7 @@
 # MappingRenewableEnergyHotspots
 ML-powered geospatial analysis for solar energy site selection in Rajasthan using satellite data
+Student: Anushka Bansode
+Mentor: Tanvi Anand
 # Solar Energy Hotspot Prediction in Rajasthan, India
 
 ## Project Overview
